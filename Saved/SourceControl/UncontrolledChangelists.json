@@ -171,7 +171,9 @@
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/BP_HUD_UIHealthBar.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/Camera/BP_Pawn_Camera.uasset",
-				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/Characters/BP_TopDownCharacter.uasset"
+				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/Characters/BP_TopDownCharacter.uasset",
+				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset",
+				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars.uasset"
 			]
 		}
 	]

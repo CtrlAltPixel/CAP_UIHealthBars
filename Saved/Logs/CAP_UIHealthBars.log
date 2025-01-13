@@ -3669,3 +3669,410 @@ Script Stack (0 frames) :
 [2025.01.13-20.24.40:602][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.13-20.24.40:602][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.13-20.24.40:602][180]AssetCheck: /Game/UIHealthBars/Maps/LVL_Arena Validating asset
+[2025.01.13-20.27.06:976][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.13-20.28.34:692][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.13-20.28.36:227][912]LogSlate: Window 'Save Content' being destroyed
+[2025.01.13-20.28.36:237][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.28.36:271][912]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/UIHealthBars/Maps/LVL_Arena/6/JO/OXDG01ZOKOZ02RTHB7LUKX
+[2025.01.13-20.28.36:271][912]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/OXDG01ZOKOZ02RTHB7LUKXEC80A1A84C723D77740F3BBE800C796E.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/__ExternalActors__/UIHealthBars/Maps/LVL_Arena/6/JO/OXDG01ZOKOZ02RTHB7LUKX.uasset'
+[2025.01.13-20.28.36:280][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.961 ms (total: 1.79 sec)
+[2025.01.13-20.28.36:320][912]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.28.36:320][912]LogContentValidation: Enabled validators:
+[2025.01.13-20.28.36:320][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.28.36:320][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.28.36:320][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.28.36:320][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.28.36:320][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.28.36:320][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.28.36:320][912]AssetCheck: /Game/UIHealthBars/Maps/LVL_Arena Validating asset
+[2025.01.13-20.30.26:674][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1021.291870
+[2025.01.13-20.30.26:828][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-20.30.26:828][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1021.435608, Update Interval: 338.704193
+[2025.01.13-20.30.40:737][688]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.13-20.30.40:745][688]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.13-20.30.40:756][689]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.13-20.30.42:586][882]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.01.13-20.30.42:587][882]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.13-20.30.53:203][768]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.01.13-20.30.53:210][768]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.01.13-20.30.53:216][768]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.01.13-20.30.53:238][770]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.01.13-20.31.06:911][ 40]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_UnitHUD_Healthbars
+[2025.01.13-20.31.06:917][ 40]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.01.13-20.31.17:511][888]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.13-20.31.27:166][657]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.01.13-20.31.27:172][657]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.01.13-20.31.27:179][657]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.01.13-20.31.27:191][658]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.01.13-20.31.55:063][547]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.31.55:070][547]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.01.13-20.31.56:867][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.13-20.31.57:929][721]LogSlate: Window 'Save Content' being destroyed
+[2025.01.13-20.31.57:940][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.31.57:974][721]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.31.57:976][721]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.31.57:976][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.31.57:979][721]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.31.57:979][721]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_Attribute5544DD5C44E6A4D78FD4D7AC90FFC4E4.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.31.57:984][721]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars] ([2] browsable assets)...
+[2025.01.13-20.31.57:985][721]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars.WB_UnitHUD_Healthbars]
+[2025.01.13-20.31.57:985][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars]
+[2025.01.13-20.31.57:988][721]LogSavePackage: Moving output files for package: /Game/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars
+[2025.01.13-20.31.57:988][721]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_UnitHUD_Healthbars295828C04D37BE2227B9A98F2B1C7147.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars.uasset'
+[2025.01.13-20.31.57:998][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.083 ms (total: 1.85 sec)
+[2025.01.13-20.31.58:033][721]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.13-20.31.58:033][721]LogContentValidation: Enabled validators:
+[2025.01.13-20.31.58:033][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.31.58:033][721]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.31.58:033][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.31.58:033][721]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.31.58:033][721]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.31.58:033][721]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.31.58:033][721]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.31.58:033][721]AssetCheck: /Game/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars Validating asset
+[2025.01.13-20.32.57:034][397]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.32.57:034][397]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2025.01.13-20.32.57:043][397]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2025.01.13-20.32.57:050][397]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.01.13-20.32.57:200][397]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.01.13-20.32.57:202][397]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.01.13-20.32.58:870][397]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.01.13-20.32.58:879][397]LogSlate: Took 0.007679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.01.13-20.33.21:851][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.13-20.33.22:549][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.33.22:585][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.33.22:588][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.33.22:589][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.33.22:592][101]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.33.22:592][101]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_AttributeF5433275407F4412D10087A7BF169396.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.33.22:600][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.606 ms (total: 1.90 sec)
+[2025.01.13-20.33.22:634][101]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.33.22:634][101]LogContentValidation: Enabled validators:
+[2025.01.13-20.33.22:634][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.33.22:634][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.33.22:634][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.33.22:634][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.33.22:634][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.33.22:634][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.33.22:635][101]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.33.29:216][865]LogSlate: Took 0.007327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.01.13-20.34.32:354][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.01.13-20.34.33:172][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.34.33:214][278]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.34.33:219][278]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.34.33:219][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.34.33:223][278]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.34.33:224][278]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_Attribute9AC858434A5E5A293E26409DF042A1E5.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.34.33:234][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.484 ms (total: 1.96 sec)
+[2025.01.13-20.34.33:275][278]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.34.33:275][278]LogContentValidation: Enabled validators:
+[2025.01.13-20.34.33:275][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.34.33:275][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.34.33:275][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.34.33:275][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.34.33:275][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.34.33:275][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.34.33:276][278]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.36.21:662][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1376.281250
+[2025.01.13-20.36.22:662][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-20.36.22:662][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1376.947510, Update Interval: 330.585052
+[2025.01.13-20.42.14:673][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1729.294556
+[2025.01.13-20.42.15:674][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-20.42.15:674][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1729.961548, Update Interval: 309.413727
+[2025.01.13-20.48.04:755][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2079.368164
+[2025.01.13-20.48.05:754][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-20.48.05:754][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2080.036377, Update Interval: 313.392731
+[2025.01.13-20.48.12:815][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.01.13-20.48.12:819][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UIHealthBars/Maps/LVL_Arena' took 0.030
+[2025.01.13-20.48.12:820][ 26]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.48.12:824][ 26]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.48.12:824][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.48.12:828][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute_Auto1
+[2025.01.13-20.48.12:828][ 26]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_Attribute_AutA0283BEB43608222F5BD8981482D7EFA.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/Autosaves/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute_Auto1.uasset'
+[2025.01.13-20.48.12:829][ 26]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.01.13-20.51.12:488][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.13-20.51.13:034][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.51.13:070][767]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.51.13:073][767]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.51.13:073][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.51.13:077][767]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.51.13:078][767]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_Attribute758718064819EB0090BDC591B870C985.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.51.13:087][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.217 ms (total: 2.02 sec)
+[2025.01.13-20.51.13:129][767]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.51.13:129][767]LogContentValidation: Enabled validators:
+[2025.01.13-20.51.13:129][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.51.13:130][767]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.51.13:130][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.51.13:130][767]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.51.13:130][767]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.51.13:130][767]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.51.13:131][767]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.53.20:242][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.13-20.53.20:947][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.53.20:984][627]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.53.20:988][627]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.53.20:988][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.53.20:992][627]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.53.20:992][627]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_AttributeC6C56A454B68673E2A9BA2939BC5A044.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.53.21:000][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.815 ms (total: 2.07 sec)
+[2025.01.13-20.53.21:043][627]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.53.21:043][627]LogContentValidation: Enabled validators:
+[2025.01.13-20.53.21:043][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.53.21:043][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.53.21:043][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.53.21:043][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.53.21:043][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.53.21:043][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.53.21:044][627]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.53.49:010][706]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.13-20.54.10:448][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.13-20.54.11:082][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.54.11:120][202]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.54.11:123][202]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.54.11:123][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.54.11:126][202]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.54.11:128][202]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_Attribute04FEDEE64A7C515E404F7A989C5ECD77.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.54.11:135][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.284 ms (total: 2.12 sec)
+[2025.01.13-20.54.11:179][202]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.54.11:179][202]LogContentValidation: Enabled validators:
+[2025.01.13-20.54.11:179][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.54.11:179][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.54.11:179][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.54.11:179][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.54.11:179][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.54.11:179][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.54.11:180][202]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.54.16:138][776]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2450.751709
+[2025.01.13-20.54.16:285][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-20.54.16:285][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2450.889893, Update Interval: 306.736664
+[2025.01.13-20.54.38:953][ 10]LogSlate: Took 0.006688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.01.13-20.55.33:979][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.13-20.55.34:813][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.55.34:851][399]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.55.34:853][399]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.55.34:853][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.55.34:859][399]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.55.34:860][399]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_Attribute8E6B331041F2AFAFC680488B2CCA16C3.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.55.34:869][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.725 ms (total: 2.18 sec)
+[2025.01.13-20.55.34:912][399]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.55.34:912][399]LogContentValidation: Enabled validators:
+[2025.01.13-20.55.34:912][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.55.34:912][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.55.34:912][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.55.34:912][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.55.34:912][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.55.34:912][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.55.34:913][399]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.55.58:589][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.13-20.55.59:627][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.55.59:662][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.55.59:665][215]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.55.59:665][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.55.59:671][215]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.55.59:671][215]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_Attribute082EB033485211012E035DA25FF24C52.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.55.59:680][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.810 ms (total: 2.23 sec)
+[2025.01.13-20.55.59:722][215]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.55.59:723][215]LogContentValidation: Enabled validators:
+[2025.01.13-20.55.59:723][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.55.59:723][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.55.59:723][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.55.59:723][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.55.59:723][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.55.59:723][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.55.59:724][215]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.56.09:479][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-20.56.09:514][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-20.56.09:514][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-20.56.09:520][374]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-20.56.09:520][374]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_AttributeDD9EB07A40CE01311B1C188B8F3D122E.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-20.56.09:528][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.950 ms (total: 2.28 sec)
+[2025.01.13-20.56.09:563][374]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-20.56.09:563][374]LogContentValidation: Enabled validators:
+[2025.01.13-20.56.09:563][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-20.56.09:563][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-20.56.09:563][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-20.56.09:563][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-20.56.09:563][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-20.56.09:563][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-20.56.09:564][374]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-20.56.14:148][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.01.13-20.59.59:375][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2793.992920
+[2025.01.13-21.00.00:375][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-21.00.00:375][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2794.659912, Update Interval: 345.781433
+[2025.01.13-21.06.26:388][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3181.004639
+[2025.01.13-21.06.27:387][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-21.06.27:387][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3181.670654, Update Interval: 338.174988
+[2025.01.13-21.08.36:506][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-21.08.36:541][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-21.08.36:541][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-21.08.36:546][999]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-21.08.36:547][999]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_AttributeEF0A8F344C6C7505EFD8B692F8835044.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-21.08.36:556][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.255 ms (total: 2.33 sec)
+[2025.01.13-21.08.36:599][999]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-21.08.36:599][999]LogContentValidation: Enabled validators:
+[2025.01.13-21.08.36:599][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-21.08.36:599][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-21.08.36:599][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-21.08.36:599][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-21.08.36:599][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-21.08.36:599][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-21.08.36:601][999]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-21.09.35:363][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-21.09.35:408][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute] ([2] browsable assets)...
+[2025.01.13-21.09.35:408][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute]
+[2025.01.13-21.09.35:414][920]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute
+[2025.01.13-21.09.35:415][920]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar_AttributeDCB2D6314CDE8DA84BDBC09C2EAE40CD.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute.uasset'
+[2025.01.13-21.09.35:423][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.628 ms (total: 2.39 sec)
+[2025.01.13-21.09.35:468][920]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-21.09.35:468][920]LogContentValidation: Enabled validators:
+[2025.01.13-21.09.35:468][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-21.09.35:468][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-21.09.35:468][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-21.09.35:468][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-21.09.35:468][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-21.09.35:468][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-21.09.35:470][920]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar_Attribute Validating asset
+[2025.01.13-21.12.55:059][405]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3569.676270
+[2025.01.13-21.12.56:059][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.13-21.12.56:059][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3570.343262, Update Interval: 313.650940
+[2025.01.13-21.14.01:270][870]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar.WB_HUD_UIHealthBar
+[2025.01.13-21.14.01:270][870]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.01.13-21.14.01:277][870]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.01.13-21.14.01:384][870]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.01.13-21.14.01:384][870]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.01.13-21.14.51:529][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.13-21.14.52:955][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-21.14.52:993][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar] ([2] browsable assets)...
+[2025.01.13-21.14.52:997][610]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar.WB_HUD_UIHealthBar]
+[2025.01.13-21.14.52:997][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar]
+[2025.01.13-21.14.53:000][610]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar
+[2025.01.13-21.14.53:001][610]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBar83B5F41D45E096DACE6F54944BE456E5.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar.uasset'
+[2025.01.13-21.14.53:009][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.232 ms (total: 2.45 sec)
+[2025.01.13-21.14.53:043][610]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-21.14.53:043][610]LogContentValidation: Enabled validators:
+[2025.01.13-21.14.53:043][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-21.14.53:043][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-21.14.53:043][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-21.14.53:043][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-21.14.53:043][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-21.14.53:043][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-21.14.53:045][610]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar Validating asset
+[2025.01.13-21.14.53:948][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.13-21.14.53:982][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar] ([2] browsable assets)...
+[2025.01.13-21.14.53:982][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIHealthBars/HUD/WB_HUD_UIHealthBar]
+[2025.01.13-21.14.53:986][709]LogSavePackage: Moving output files for package: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar
+[2025.01.13-21.14.53:986][709]LogSavePackage: Moving '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Saved/WB_HUD_UIHealthBarACD4F6544823538ECF095F801E293FED.tmp' to '../../../../../../Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/HUD/WB_HUD_UIHealthBar.uasset'
+[2025.01.13-21.14.53:993][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.505 ms (total: 2.49 sec)
+[2025.01.13-21.14.54:033][709]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.13-21.14.54:033][709]LogContentValidation: Enabled validators:
+[2025.01.13-21.14.54:033][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.13-21.14.54:033][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.13-21.14.54:033][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.13-21.14.54:033][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.13-21.14.54:033][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.13-21.14.54:033][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.13-21.14.54:035][709]AssetCheck: /Game/UIHealthBars/HUD/WB_HUD_UIHealthBar Validating asset
+[2025.01.13-21.15.17:574][469]LogDerivedDataCache: C:/Users/Leroy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.13-21.15.24:019][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.13-21.15.31:719][777]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.01.13-21.15.31:742][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.13-21.15.31:772][777]LogStall: Shutdown...
+[2025.01.13-21.15.31:773][777]LogStall: Shutdown complete.
+[2025.01.13-21.15.31:812][777]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.31:812][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.31:898][777]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.13-21.15.31:898][777]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.31:898][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.31:973][777]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.13-21.15.31:973][777]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.31:974][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.32:076][777]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.32:076][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.32:083][777]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.32:083][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.32:145][777]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.32:145][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.32:151][777]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.32:151][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.32:197][777]LogSlate: Window 'CAP_UIHealthBars - Unreal Editor' being destroyed
+[2025.01.13-21.15.33:051][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.13-21.15.33:080][778]Cmd: QUIT_EDITOR
+[2025.01.13-21.15.33:080][779]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.13-21.15.33:083][779]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.13-21.15.33:083][779]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.13-21.15.33:083][779]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.13-21.15.33:085][779]LogWorld: UWorld::CleanupWorld for LVL_Arena, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.33:085][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.33:085][779]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UIHealthBars/Maps/LVL_Arena.LVL_Arena
+[2025.01.13-21.15.33:091][779]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.01.13-21.15.33:092][779]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.13-21.15.33:096][779]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.33:096][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.33:099][779]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.33:099][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.33:102][779]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.33:102][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.33:105][779]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.33:105][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.33:107][779]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.13-21.15.33:107][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.13-21.15.33:110][779]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.13-21.15.33:117][779]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.13-21.15.33:117][779]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.13-21.15.33:118][779]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.13-21.15.33:119][779]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.13-21.15.33:119][779]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.13-21.15.33:119][779]LogAudio: Display: Audio Device unregistered from world 'LVL_Arena'.
+[2025.01.13-21.15.33:119][779]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.13-21.15.33:119][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.13-21.15.33:122][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.13-21.15.33:131][779]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.13-21.15.33:132][779]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.13-21.15.33:133][779]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.01.13-21.15.33:135][779]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.13-21.15.33:135][779]LogExit: Preparing to exit.
+[2025.01.13-21.15.33:164][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.13-21.15.33:167][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:167][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:168][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.33:169][779]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.13-21.15.34:010][779]LogEditorDataStorage: Deinitializing
+[2025.01.13-21.15.34:141][779]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.13-21.15.34:156][779]LogExit: Editor shut down
+[2025.01.13-21.15.34:159][779]LogExit: Transaction tracking system shut down
+[2025.01.13-21.15.34:328][779]LogExit: Object subsystem successfully closed.
+[2025.01.13-21.15.34:353][779]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.13-21.15.34:962][779]LogMemoryProfiler: Shutdown
+[2025.01.13-21.15.34:962][779]LogNetworkingProfiler: Shutdown
+[2025.01.13-21.15.34:962][779]LoadingProfiler: Shutdown
+[2025.01.13-21.15.34:962][779]LogTimingProfiler: Shutdown
+[2025.01.13-21.15.35:324][779]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.01.13-21.15.35:334][779]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.13-21.15.35:334][779]LogNFORDenoise: NFORDenoise function shutting down
+[2025.01.13-21.15.35:334][779]RenderDocPlugin: plugin has been unloaded.
+[2025.01.13-21.15.35:356][779]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.13-21.15.35:356][779]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC318CD51-4A91-B457-0652-6FA1834639EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=4dafbac44b4ee45fc24daeb12b54be0f%7Cef27d73db5794bafa3056678b32c97b3%7C9e1d55ff-63ff-45a5-be4b-a4b4c3e72178&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.13-21.15.35:915][779]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.01.13-21.15.35:918][779]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.01.13-21.15.35:918][779]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.01.13-21.15.35:918][779]LogPakFile: Destroying PakPlatformFile
+[2025.01.13-21.15.36:199][779]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.13-21.15.36:237][779]LogExit: Exiting.
+[2025.01.13-21.15.36:259][779]Log file closed, 01/13/25 21:15:36
