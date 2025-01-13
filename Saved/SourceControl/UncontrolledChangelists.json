@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/LukeT/CAP_UIHealthBars/Content/UIHealthBars/Characters/UI/WB_UnitHUD_Healthbars.uasset",
+				"D:/Github/LukeT/CAP_UIHealthBars/Content/UIHealthBars/Characters/UI/M_ProgressBarMat.uasset",
+				"D:/Github/LukeT/CAP_UIHealthBars/Content/UIHealthBars/Characters/UI/grid.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/Maps/TopDownMap_BuiltData.uasset",
 				"C:/Users/Leroy/Documents/UnrealProjects/CAP_UIHealthBars/Content/UIHealthBars/Blueprints/BP_TopDownGameMode.uasset",
